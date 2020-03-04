@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/masumpanda/CLionProjects/untitled1/main.cpp
+opencv2/highgui/highgui.hpp
+/home/masumpanda/CLionProjects/untitled1/opencv2/highgui/highgui.hpp
+opencv2/core/core.hpp
+/home/masumpanda/CLionProjects/untitled1/opencv2/core/core.hpp
+opencv2/imgproc/imgproc.hpp
+/home/masumpanda/CLionProjects/untitled1/opencv2/imgproc/imgproc.hpp
+
