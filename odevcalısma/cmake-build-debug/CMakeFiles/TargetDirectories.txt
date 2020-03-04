@@ -1,0 +1,3 @@
+/home/masumpanda/CLionProjects/odevcalısma/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/masumpanda/CLionProjects/odevcalısma/cmake-build-debug/CMakeFiles/odevcalsma.dir
+/home/masumpanda/CLionProjects/odevcalısma/cmake-build-debug/CMakeFiles/edit_cache.dir
