@@ -1,4 +1,4 @@
-#include <stdio.h>                      // #365317 #Mustafa DEMİRHAN #365317@ogr.ktu.edu.tr Degerlendirme 1
+#include <stdio.h>                      
 #include <stdlib.h>
 #include <string.h>
 struct Takimayarlari{                                       // Structlar..
